@@ -41,5 +41,5 @@
 
 
 + Russian (Русский) 
-+ English
++ English (B1)
 + Python
