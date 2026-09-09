@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+markdown
+### 📈 GitHub Activity Graph:
+![Anurag's GitHub activity graph](https://activity-graph.herokuapp.com/graph?user)
+
+
+
+
+
+
+
+
+
+
+
+
