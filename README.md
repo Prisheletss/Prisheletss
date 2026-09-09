@@ -1,6 +1,8 @@
+![Header](images/github-header-banner.png)
+
 <br clear="both">
 
-<h1 align="center">I'm Prishelets</h1>
+
 <h3 align="left">About me</h3>
 
 <p align="left">
