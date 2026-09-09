@@ -32,3 +32,12 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prisheletss&theme=github_dark&exclude"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prisheletss&theme=github_dark&exclude"/>
 </div>
+
+
+
+<h3 align="left">Languages i'm speaking:</h3>
+
+
++ Russian (Русский) 
++ English
++ Python
